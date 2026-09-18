@@ -1,0 +1,13 @@
+body{
+    background: radial-gradient(circle at top left, orange, red, purple, blue)
+}
+
+.text-box{
+    padding: 12px;
+    background: white;
+    border-width: 6px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: black;
+    font-family: Arial;
+}
