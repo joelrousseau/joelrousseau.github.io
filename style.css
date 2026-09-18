@@ -1,5 +1,9 @@
 body{
-    background: radial-gradient(circle at top left, orange, red, purple, blue)
+    min-height: 100vh;
+    margin: 0;
+    background: conic-gradient(from 0deg at 50% 50%, orange, red, purple, blue, orange);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .text-box{
